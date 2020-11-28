@@ -2,9 +2,13 @@
 
 [Linkedin profile](https://www.linkedin.com/in/felix-morillas-navas-323107153)
 
-Plan for 2020
+My Plan for 2020 finally for private purposes to use Github again and 
+to write all milestones into my profile and to contribute again in Github.
 
-Google Colab jupyter notebooks
+Technical goals:
+    - Python 3.8
+    - Google Colab jupyter notebooks
+    - find useful Github plugins for this kind of work
 
 1. FastAI
     - book "deep learning for coders with fastai and pytorch"
